@@ -162,6 +162,7 @@ $P_Drive = "\\XXX.XXX.XXX\TestData"
 Add-Type -AssemblyName PresentationFramework
 
 #Function for installing network drives/printers
+# ** NOTE "net use" is the method used for connecting network drives/printers. You can also use "PS-drive" for connecting to network drives which may work better as its a powershell cmdlet. 
 function NetConnect {
 
 $Button1.text = 'Connecting...'
