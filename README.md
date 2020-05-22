@@ -2,7 +2,7 @@
 I created this Powershell GUI App for users to be able to connect to network drives/printers with a GUI interface using their domain credentials.  
 
 ## How to Execute this program? 
-This application/script was created from a windows machine and as such is intended for Windows Operating systems for use and execution. 
+This application/script was created on a windows machine and as such is intended for Windows Operating Systems for use and execution. 
 
 To execute this program you can simply right click and click on the "Run with Powershell" option. 
 
